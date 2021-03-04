@@ -9,7 +9,6 @@
 
 # UPDATE
 
-* pod lib lint --allow-warnings
-* [pod lib lint --allow-warnings --no-clean --verbose]
+* pod lib lint --allow-warnings <<ORRR>> pod lib lint --allow-warnings --no-clean --verbose
 * Push to git and release
-* pod trunk push --allow-warnings ORRR>> pod trunk push AlamofireKit.podspec --allow-warnings
+* pod trunk push --allow-warnings <<ORRR>> pod trunk push AlamofireKit.podspec --allow-warnings
