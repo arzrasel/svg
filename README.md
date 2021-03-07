@@ -10,3 +10,4 @@ svg
 
 [Understanding Result Type in Swift 5 with Daniel Steinberg](https://www.avanderlee.com/swift/result-enum-type/)
 [Understanding the Result Type in Swift](https://www.andyibanez.com/posts/swift-result-type/)
+[](https://mobikul.com/result-type-in-swift/)
